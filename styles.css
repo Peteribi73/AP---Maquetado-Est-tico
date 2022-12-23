@@ -1,0 +1,87 @@
+body {
+    /*/background-color: #BFDBF7;/*/
+    background-image: linear-gradient(#B5E48C, #34A0A4);
+}
+
+/*/.container-banner-user-pic {
+    background-color: #D6CCC2;
+}/*/
+
+#about-me {
+    background-color: #52B69A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 7px;
+}
+
+#about {
+    background-color: #dad7cd;
+    color: black;
+    border-radius: 20px;
+    padding: 5px 15px;
+}
+
+/*/#banner-user-pic {
+    background-color: black;
+}/*/
+
+.exp {
+    font-family: Verdana;
+    border: solid 1px black;
+    padding: 5px;
+    background-color: #88D4AB;
+    padding: 20px 25px 20px 25px;
+    margin-left: 75px;
+    width: fit-content;
+    border-radius: 5px;
+}
+
+.container-exp {
+    border: solid 1px black;
+    padding: 5px;
+    margin: 40px 75px;
+    /*/background-color: rgb(255, 126, 188);/*/
+    border-radius: 10px;
+    background-color: #B5E48C;
+
+    display: grid;
+    grid-template-columns: 280px 20px 1226px;
+    grid-template-rows: repeat(3, 200px);
+}
+
+.container-edu {
+    border: solid 1px black;
+    padding: 5px;
+    margin: 40px 75px;
+    /*/background-color: rgb(255, 126, 188);/*/
+    border-radius: 10px;
+    background-color: #B5E48C;
+
+    display: grid;
+    grid-template-columns: 280px 20px 1226px;
+    grid-template-rows: repeat(2, 200px);
+}
+
+.item {
+    overflow: auto;
+}
+
+.ent-logo {
+    display: grid;
+    margin: auto auto;
+    width: 180px;
+    height: 160px;
+}
+
+.info-text {
+    padding: 8px 20px;
+    font-family: 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    font-weight: normal;
+}
+
+/*/#user-pic {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    z-index: 5%;
+}/*/

@@ -1,0 +1,2 @@
+Refactorizar la user-pic y el Acerca De. Usar grid.
+tambien ver para sobreponer la user-pic al banner.
